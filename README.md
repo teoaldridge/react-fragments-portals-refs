@@ -2,6 +2,9 @@
 I did this exercise as part of my studies with React - The Complete Guide (incl Hooks, React Router, Redux) by Maximillian Schwarzmuller
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
+This 'add-user' app has a simple functionality of inputting name and age of a user and adding them to a User List. 
+If the name or age is not added, or if the age is invalid (number < 1), an Error Modal pops up. 
+
 In this exercise, I learned and practiced: 
  - Creating a Wrapper Component
  - React Fragments
